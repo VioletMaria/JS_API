@@ -1,1 +1,1 @@
-Get Data from API & Display in HTML with JavaScript Fetch API
+Get data from an API and display in HTML with JavaScript Fetch API
